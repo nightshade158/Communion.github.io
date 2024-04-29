@@ -41,6 +41,9 @@ em {
   text-align: center;
 }
 
+.font{
+  font-size: 18px;
+}
 .container {
   box-shadow: rgba(37, 39, 39, 0.1) 0px 8px 8px 0px;
   margin: 0 auto;
@@ -110,7 +113,7 @@ a:hover {
 .church {
   margin: 0 auto;
   position: relative;
-  transform: scale(0.35, 0.35);
+  transform: scale(0.25, 0.25);
   bottom: 110px;
   width: 87%;
 }
